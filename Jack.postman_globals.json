@@ -1,0 +1,34 @@
+{
+	"id": "32836134-3ffc-445f-8dde-29dbf48edf33",
+	"values": [
+		{
+			"key": "baseurl",
+			"value": "http://182.92.81.159",
+			"enabled": true
+		},
+		{
+			"key": "chengshi",
+			"value": "北京",
+			"enabled": true
+		},
+		{
+			"key": "CX",
+			"value": "北京",
+			"enabled": true
+		},
+		{
+			"key": "token1113",
+			"value": "Bearer 15e0fb17-678a-4cd7-af76-24c181dd33af",
+			"enabled": true
+		},
+		{
+			"key": "EmployeeID",
+			"value": "1194463145808449536",
+			"enabled": true
+		}
+	],
+	"name": "Jack Globals",
+	"_postman_variable_scope": "globals",
+	"_postman_exported_at": "2019-11-13T05:00:46.430Z",
+	"_postman_exported_using": "Postman/7.11.0"
+}
